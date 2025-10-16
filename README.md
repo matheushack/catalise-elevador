@@ -8,7 +8,7 @@ Implementação simples de elevador que atende chamados em FIFO usando SplQueue.
 ## Instalação
 ### Git
 ```bash
-  git clone git@github.com:matheushack/catalise-elevador.git
+  git clone https://github.com/matheushack/catalise-elevador.git
 ```
 
 ### Composer
