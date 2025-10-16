@@ -1,0 +1,10 @@
+{
+    "name": "matheus-hack/elevador",
+    "description": "Implementação simples de elevador que atende chamados em FIFO usando SplQueue.",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {}
+}
