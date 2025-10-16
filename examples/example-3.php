@@ -17,5 +17,3 @@ if(!$pendentes->isEmpty()) {
         $elevador->mover();
     }
 }
-
-
